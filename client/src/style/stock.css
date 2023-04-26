@@ -1,0 +1,16 @@
+/* .table-hover tbody tr:hover {
+    background-color: #6d3131;
+  } */
+  .custom-btn {
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+  }
+  
+  .custom-btn:focus,
+  .custom-btn:active {
+    box-shadow: none;
+    background-color: transparent;
+    border-color: #fff;
+    border-bottom-color: #fff;
+  }

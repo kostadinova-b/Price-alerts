@@ -1,0 +1,8 @@
+hazelcast:
+  network:
+    join:
+      multicast:
+        enabled: true
+#  executor-service:
+#    entity-pipeline:
+#      pool-size: 1
