@@ -1,5 +1,6 @@
 mvnw*
 *.iml
+*.json
 HELP.md
 **/.idea
 **/target
